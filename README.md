@@ -1,1 +1,1 @@
-# linkedin-Week1-task
+# Responsive Linkedin Home Page Clone
